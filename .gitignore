@@ -1,0 +1,11 @@
+# Yarn
+.yarn/*
+!.yarn/plugins/
+!.yarn/releases/
+
+# Build
+dist/
+*.tsbuildinfo
+
+# Editors
+.vscode/
